@@ -24,8 +24,5 @@ public class Main {
         Locale.setDefault(Locale.US);
         System.out.printf("US decimal point: %.3f%n", measure);
 
-
     }
 }
-
-// TEST VERSION 1
