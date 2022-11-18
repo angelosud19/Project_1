@@ -27,5 +27,3 @@ public class Main {
 
     }
 }
-
-// TEST VERSION 1
